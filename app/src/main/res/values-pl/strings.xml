@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="game">Gra</string>
+    <string name="webpage">Wybrana strona</string>
+    <string name="write">Napisz</string>
+    <string name="move">Ruch</string>
+    <string name="result">Wynik</string>
+    <string name="gamer1">Gracz 1</string>
+    <string name="gamer2">Gracz 2</string>
+    <string name="draw">Remis</string>
+    <string name="google">Google</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="restart">Restart</string>
+</resources>

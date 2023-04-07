@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="game">Game</string>
+    <string name="webpage">Choosen webpage</string>
+    <string name="write">Write</string>
+    <string name="move">Move</string>
+    <string name="result">Result</string>
+    <string name="gamer1">Gamer 1</string>
+    <string name="gamer2">Gamer 2</string>
+    <string name="draw">Draw</string>
+    <string name="google">Google</string>
+    <string name="wikipedia">Wikipedia</string>
+    <string name="restart">Restart</string>
+</resources>
